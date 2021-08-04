@@ -1,0 +1,66 @@
+.canvas {
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    margin-bottom: 20px;
+}
+
+.pipe {
+    flex: 1;
+    min-height: 200px;
+    border-radius: 10px;
+    padding: 10px;
+    margin-right: 15px;
+}
+
+.pipe:last-child {
+    margin-right: 0px;
+}
+
+.pipe-title {
+    color: white;
+    font-size: 16px;
+}
+
+.pipe-0 {
+    background-color: #5677f4;
+}
+
+.pipe-1 {
+    background-color: #fdab3d;
+}
+
+.pipe-2 {
+    background-color: #01c875;
+}
+
+.activity {
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px 0;
+    min-height: 60px;
+    font-size: 18px;
+}
+
+
+/* Estilo adicionar atividade */
+.btn-add-activity {
+    bottom: 0px;
+}
+
+/* Estilo remover atividade */
+.btn-delete-activity {
+    padding: 0;
+    width: 15px;
+    height: 15px;
+    font-size: 10px;
+    float:right;
+    background-color: white;
+    border: 0;
+    border-radius: 4px;
+ }
+
+ .btn-delete-activity:hover {
+    background-color: #e6e6e6;
+ }

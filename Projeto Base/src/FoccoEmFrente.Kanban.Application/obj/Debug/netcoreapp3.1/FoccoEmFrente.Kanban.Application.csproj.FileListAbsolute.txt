@@ -1,0 +1,27 @@
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base\src\FoccoEmFrente.Kanban.Application\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Application.deps.json
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base\src\FoccoEmFrente.Kanban.Application\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Application.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base\src\FoccoEmFrente.Kanban.Application\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Application.pdb
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base\src\FoccoEmFrente.Kanban.Application\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Application.csprojAssemblyReference.cache
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base\src\FoccoEmFrente.Kanban.Application\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Application.AssemblyInfoInputs.cache
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base\src\FoccoEmFrente.Kanban.Application\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Application.AssemblyInfo.cs
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base\src\FoccoEmFrente.Kanban.Application\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Application.csproj.CoreCompileInputs.cache
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base\src\FoccoEmFrente.Kanban.Application\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Application.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base\src\FoccoEmFrente.Kanban.Application\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Application.pdb
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Application\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Application.deps.json
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Application\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Application.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Application\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Application.pdb
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Application\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Application.csprojAssemblyReference.cache
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Application\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Application.AssemblyInfoInputs.cache
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Application\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Application.AssemblyInfo.cs
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Application\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Application.csproj.CoreCompileInputs.cache
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Application\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Application.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Application\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Application.pdb
+D:\Users\Julio\Desktop\Projeto Base\Projeto Base\src\FoccoEmFrente.Kanban.Application\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Application.deps.json
+D:\Users\Julio\Desktop\Projeto Base\Projeto Base\src\FoccoEmFrente.Kanban.Application\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Application.dll
+D:\Users\Julio\Desktop\Projeto Base\Projeto Base\src\FoccoEmFrente.Kanban.Application\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Application.pdb
+D:\Users\Julio\Desktop\Projeto Base\Projeto Base\src\FoccoEmFrente.Kanban.Application\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Application.csproj.AssemblyReference.cache
+D:\Users\Julio\Desktop\Projeto Base\Projeto Base\src\FoccoEmFrente.Kanban.Application\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Application.AssemblyInfoInputs.cache
+D:\Users\Julio\Desktop\Projeto Base\Projeto Base\src\FoccoEmFrente.Kanban.Application\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Application.AssemblyInfo.cs
+D:\Users\Julio\Desktop\Projeto Base\Projeto Base\src\FoccoEmFrente.Kanban.Application\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Application.csproj.CoreCompileInputs.cache
+D:\Users\Julio\Desktop\Projeto Base\Projeto Base\src\FoccoEmFrente.Kanban.Application\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Application.dll
+D:\Users\Julio\Desktop\Projeto Base\Projeto Base\src\FoccoEmFrente.Kanban.Application\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Application.pdb
